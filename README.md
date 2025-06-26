@@ -57,4 +57,14 @@ PENETRATION TESTING LABS	PRACTICE FILE-LEVEL ENCRYPTION/DECRYPTION IN ETHICAL HA
 SYSTEM SECURITY PROJECTS	INTEGRATE INTO SECURE FILE STORAGE OR BACKUP SYSTEMS
 
 DIGITAL FORENSICS	SAFELY DECRYPT EVIDENCE FILES USING KNOWN PASSWORDS
+________________________________________
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/5c50cfa0-7ef3-41e4-8b49-5eb065208589)
+
+![Image](https://github.com/user-attachments/assets/b2c1c6c5-0e15-4abf-92e5-a2f316dd3474)
+
+![Image](https://github.com/user-attachments/assets/7e561219-fe2b-46ae-8e79-43e9a5600750)
+
+
 
